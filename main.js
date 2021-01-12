@@ -34,7 +34,7 @@ function getWeather() {
   // Request to open weather map
   xhr.open(
     "GET",
-    "http://api.openweathermap.org/data/2.5/weather?id=4930956&mode=html&units=imperial&appid=" + OPEN_WEATHER_API_KEY
+    "https://api.openweathermap.org/data/2.5/weather?id=4930956&mode=html&units=imperial&appid=" + OPEN_WEATHER_API_KEY
   );
 
   xhr.onload = () => {
