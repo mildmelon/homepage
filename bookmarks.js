@@ -6,6 +6,16 @@ const bookmarks = [
       { name: "Inbox", url: "https://inbox.google.com" },
       { name: "Drive", url: "https://drive.google.com" },
       { name: "GitHub", url: "https://github.com" },
+      { name: "Digital Garden", url: "https://caidanwilliams.com/digital-garden" },
+    ],
+  },
+  {
+    title: "Social",
+    links: [
+      { name: "Hacker News", url: "https://news.ycombinator.com" },
+      { name: "Twitter", url: "https://twitter.com" },
+      { name: "Mastodon.Tech", url: "https://mastodon.technology" },
+      { name: "LinkedIn", url: "https://www.linkedin.com/" },
     ],
   },
   {
@@ -14,15 +24,6 @@ const bookmarks = [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Amazon Prime", url: "https://www.amazon.com/Amazon-Video/b?ie=UTF8&node=2858778011" },
-    ],
-  },
-  {
-    title: "Social",
-    links: [
-      { name: "Hacker News", url: "https://news.ycombinator.com" },
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Mastodon | Tech", url: "https://mastodon.technology" },
-      { name: "LinkedIn", url: "https://www.linkedin.com/" },
     ],
   },
   {
